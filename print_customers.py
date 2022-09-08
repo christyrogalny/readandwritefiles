@@ -16,4 +16,3 @@ for record in csvfile:
     print('Phone:',record[5])
 
     input()
-
